@@ -1,3 +1,19 @@
+Project pembuatan web app point of sales (POS) dengan menggunakan tech<b>
+- Backend Laravel 13 didukung Livewire v4
+- Frontend Bootstrap v5
+- Database MySql
+
+Status project ini masih dalam pengembangan dengan status 60% selesai
+
+WARNING<br>
+THIS CODE IS RESTRICTED TO PORTO PURPOSES !!!.
+
+Preview Menu Produk<br>
+<img width="950" alt="Capture" src="https://github.com/user-attachments/assets/419b715b-bba8-4dd6-868e-e2bac7486b9d" /><br>
+
+Preview Input Stok Awal -> Riwayat<br>
+<img width="950" alt="Capture" src="https://github.com/user-attachments/assets/712779b9-655d-4df5-87eb-df71e98ce1d4" />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
